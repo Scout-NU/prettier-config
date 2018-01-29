@@ -1,4 +1,4 @@
-# prettier-confug
+# prettier-config
 
 Scout's official [`prettier`](https://prettier.io) configuration.
 
