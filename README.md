@@ -33,11 +33,12 @@ module.exports = require('@nuscout/prettier-config');
 #### Adam Markon
 
 _Email_: [amarkon895@gmail.com](mailto:amarkon895@gmail.com)
+
 _Twitter_: [@amarkon88](https://twitter.com/amarkon88)
 
 ## Code of Conduct
 
-Scout strives to provide a welcoming, inclusive environment for all users, period. To hold ourselves accountable to that mission, Scout has a strictly-enforced [code of conduct](/CODE_OF_CONDUCT.md). Violating those rules will result in removal from the Scout organization, and potentially being banned from contributing to our projects.
+Scout strives to provide a welcoming, inclusive environment for all users, period. To hold ourselves accountable to that mission, Scout has a strictly-enforced [code of conduct](https://github.com/Scout-NU/open-source/blob/develop/CODE_OF_CONDUCT.md). Violating those rules will result in removal from the Scout organization, and potentially being banned from contributing to our projects.
 
 ## Contributing
 
